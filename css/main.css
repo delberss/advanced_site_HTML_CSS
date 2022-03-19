@@ -196,3 +196,77 @@ body {
 /* first-section end */
 
 
+/* second-section init */
+
+.second-section {
+    background: #292d33;
+}
+
+.second-section .data-content{
+    padding: 30px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.second-section .left {
+    width: 40%;
+}
+
+.second-section .left img{
+    width: 90%;
+    height: 350px;
+    border: 8px solid #33bbd8;
+
+    object-fit: cover;
+    object-position: 0 0;
+}
+
+
+
+.second-section .right {
+    width: 55%;
+    text-align: center;
+}
+
+.second-section .right .subtitle, .second-section .right .title{
+    margin: 30px 0;
+}
+
+.second-section .right .subtitle {
+    color: #808080;
+    font-size: 0.9rem;
+    margin-bottom: 5px;
+}
+
+
+.second-section .right .title {
+    color :#33bbd8;
+    font-size: 1.8rem;
+    margin-top: 8px;
+}
+
+
+.second-section .right .details {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    align-items: flex-end;
+}
+
+.second-section .right .details .detail-item{
+    width: 30%;
+}
+
+.second-section .right .details .detail-item h1{
+    font-size: 2rem;
+    text-align: center;
+}
+
+.second-section .right .details .detail-item p{
+    font-size: 0.9rem;
+}
+
+
+
+/* second-section end */
