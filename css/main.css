@@ -21,3 +21,14 @@ body {
     background: white;
     height: 80px;
 }
+
+.navbar .logo {
+    height: 50%;
+}
+
+.navbar .data-content {
+    display: flex;
+    align-items: center;
+}
+
+/* navbar end*/
