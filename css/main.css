@@ -4,6 +4,7 @@ body {
     background-image: url("../images/maxO_TVsaeZNlEunsplashmin2.jpg");
     background-repeat: no-repeat;
     background-position: 0px 80px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 
@@ -32,3 +33,55 @@ body {
 }
 
 /* navbar end*/
+
+/* section-header init*/
+.section-header {
+    height: 750px;
+}
+
+.section-header .data-content {
+    display: flex;
+    justify-content: right;
+}
+
+
+.section-header .box-border {
+    height: 350px;
+    width: 350px;
+    border: 2px solid white;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    margin-top: 40px;
+    padding: 20px;
+}
+
+
+
+.section-header .box-border .data {
+    color: white;
+    margin-left: 0 10px;
+}
+
+.section-header .box-border .data .subtitle {
+    font-size: 2rem;
+    margin: 0;
+}
+
+.section-header .box-border .data .title {
+    font-size: 3rem;
+    margin: 10px 0;
+}
+
+.section-header .box-border .data hr {    
+    background-color: white;
+    border: none;
+    height: 6px;
+    width: 80%;
+    margin: 0;
+}
+
+
+/* section-header end*/
