@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/maxO_TVsaeZNlEunsplashmin2.jpg");
+    background-repeat: no-repeat;
+    background-position: 0px 80px;
+}
+
+
+/* DELIMITAÇÃO DE CONTEÚDOS*/
+
+.data-content {
+    width:940px;  
+    height: 100%;
+    margin: auto;
+}
+
+
+/* navbar init*/
+.navbar {
+    background: white;
+    height: 80px;
+}
