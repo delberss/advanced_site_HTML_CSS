@@ -319,9 +319,8 @@ body {
     height: 250px;
 
     position: absolute;
-    margin: 6% 23%;
-
-   
+    margin-left: 320px;
+    margin-top: 50px;
 }
 
 .third-section .central .box {
