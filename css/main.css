@@ -369,14 +369,14 @@ body {
 
 
 
-/* four-section init */
+/* fourth-section init */
 
-.four-section {
+.fourth-section {
     background: #33bbd8;
     height: 100%;
 }
 
-.four-section .data-content{
+.fourth-section .data-content{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -384,7 +384,7 @@ body {
 }
 
 
-.four-section .data-content .citation{
+.fourth-section .data-content .citation{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -392,23 +392,23 @@ body {
     width: 60%;
 }
 
-.four-section .data-content .citation p{
+.fourth-section .data-content .citation p{
     font-size: 1.1rem;
     text-align: center;
 }
 
-.four-section .citation .first-aspas,
-.four-section .citation .second-aspas {
+.fourth-section .citation .first-aspas,
+.fourth-section .citation .second-aspas {
     font-size: 4rem;
     margin: 0px;
 }
 
-.four-section .citation .first-aspas {
+.fourth-section .citation .first-aspas {
     align-self: flex-start;
 }
 
-.four-section .citation .second-aspas {
+.fourth-section .citation .second-aspas {
     align-self: flex-end;
 }
 
-/* four-section end */
+/* fourth-section end */
