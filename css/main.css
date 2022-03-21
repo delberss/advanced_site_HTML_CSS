@@ -507,6 +507,31 @@ body {
 }
 
 
+.fifth-section .social-medias ul{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 0;
+}
+
+.fifth-section .social-medias li,
+.fifth-section .social-medias li a
+{
+    padding: 5px;
+    list-style: none;
+}
+
+.fifth-section .social-medias li a{
+    font-size: 1.4rem;
+    color: white;
+}
+
+.fifth-section .social-medias li a:hover{
+    list-style: none;
+    color: #292d33;
+}
+
 /* fifth-section end */
 
 
@@ -527,5 +552,30 @@ footer a{
     text-decoration: none;
     font-style: italic;
     color: white;
+}
+
+footer .social-medias ul{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+footer .social-medias li,
+footer .social-medias li a
+{
+    padding: 10px;
+    list-style: none;
+}
+
+footer .social-medias li a{
+    font-size: 2rem;
+    color: white;
+}
+
+footer .social-medias li a:hover{
+    list-style: none;
+    color: #33bbd8;
 }
 /* footer end */
